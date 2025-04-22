@@ -1,0 +1,6 @@
+### 📁 real_estate_miniapp/backend/requirements.txt
+
+fastapi
+uvicorn
+python-dotenv
+openai>=1.0.0
